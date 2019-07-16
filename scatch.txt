@@ -1,0 +1,7 @@
+<img class="wings" src="images/smoked-chicken-wings.jpg"  alt="smoked chicken wings">
+        .wings{
+x         object-fit: contain;
+         }
+https://www.amazon.com/Weber-14401001-Original-Premium-Charcoal/dp/B00MKB5TXA/
+
+https://www.youtube.com/watch?v=6ehH4php-3A
